@@ -1,5 +1,5 @@
 # Practice Project - Food Order App
-This project was built while i was taking the "React - The Complete Guide (incl Hooks, React Router, Redux)React - The Complete Guide (incl Hooks, React Router, Redux)"
+This project was built while i was taking the "React - The Complete Guide (incl Hooks, React Router, Redux)"
 course at Udemy.
 I have built this project while coding along with the course instructor in order to implement the new things i've learned. 
 
