@@ -4,7 +4,7 @@ course at Udemy.
 I have built this project while coding along with the course instructor in order to implement the new things i've learned. 
 
 # Project's aim
-The project's aim is to practice the new skills i have learned in that Udemy course by building a front-end web app that lets you add/remove items that were fetched from a Firebase database to a cart and clculate the total amount.
+The project's aim is to practice the new skills i have learned in that Udemy course by building a front-end web app that lets you add/remove items that were fetched from a Firebase database to a cart and calculate  the total amount.
 
 # Technologies 
 This is a front-end project that was built using create-react-app.
